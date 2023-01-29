@@ -1,0 +1,18 @@
+{
+  "extends": "./tsconfig.base.json",
+  "include": [
+    "./**/*.js",
+    "./**/*.cjs",
+    "./**/*.mjs",
+    "./**/*.jsx",
+    "./**/*.mjsx",
+    "./**/*.ts",
+    "./**/*.cts",
+    "./**/*.mts",
+    "./**/*.tsx",
+    "./**/*.mtsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+}
