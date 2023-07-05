@@ -1,17 +1,15 @@
 {
   "compilerOptions": {
     "module": "NodeNext",
-    "moduleResolution": "NodeNext",
+    "moduleResolution": "Bundler",
     "target": "ESNext",
     "strict": true,
     "esModuleInterop": true,
-    "isolatedModules": true,
     "allowJs": true,
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "importsNotUsedAsValues": "error",
     "noEmit": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedIndexedAccess": true,
@@ -22,7 +20,6 @@
     "sourceMap": true,
     "skipLibCheck": true,
     "exactOptionalPropertyTypes": true,
-    "forceConsistentCasingInFileNames": true,
-    "suppressImplicitAnyIndexErrors": true
+    "verbatimModuleSyntax": true,
   }
 }
