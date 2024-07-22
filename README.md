@@ -1,16 +1,17 @@
 # `@alexey-koran/tsconfig`
 
-> [TSConfig](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+[TSConfig](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
-## Usage
+[Sharing configuration](https://www.typescriptlang.org/tsconfig#extends)
 
-**Install**:
+
+### Installation
 
 ```bash
 pnpm i -D @alexey-koran/tsconfig
 ```
 
-> [Sharing configuration:](https://www.typescriptlang.org/tsconfig#extends)
+## Usage
 
 tsconfig.json
 
@@ -20,4 +21,4 @@ tsconfig.json
 }
 ```
 
-> [Example](https://github.com/alexey-koran/react-template/blob/main/tsconfig.json)
+### [Example](https://github.com/alexey-koran/react-template/blob/main/tsconfig.json)
