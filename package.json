@@ -1,7 +1,7 @@
 {
   "name": "@alexey-koran/tsconfig",
   "version": "0.1.0",
-  "description": "TSConfig",
+  "description": "Shared TSConfig",
   "main": "tsconfig.json",
   "author": "Alexey-Koran <alexey.koran@gmail.com>",
   "license": "MIT",
